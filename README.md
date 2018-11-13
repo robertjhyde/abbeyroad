@@ -8,7 +8,7 @@ What if we were to lower the requirements and make playing accessible to everyon
 We wanted to provide a simple and easy way to experience some of the concepts of playing together; to provide people with an experience that encourages them to generate an interest and take it further. We didn't build a new platform for content generation, we built a new environment to promote the exploration of collaboration.
 
 ### HMRNI
-HRMNI is welcoming, playful and fun straight out-of-the-box.
+Winners of the 'Best User Oriented Solution' Prize in the Abbey Road Red Hackathon 2018. HRMNI is welcoming, playful and fun straight out-of-the-box.
 
 HRMNI uses your phone as a controller to trigger sounds. Users connect to a central device that is hosting a session, playing the sound for the group of players. By opening the app and facing your camera at the host you can join a jam session. Here you select an instrument, begin collaborating and moving around the surrounding space to affect the sounds.
 
